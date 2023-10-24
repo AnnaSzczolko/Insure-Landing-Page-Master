@@ -1,0 +1,7 @@
+@mixin section-title($color){
+    font-size: 4rem;
+    text-align: center;
+    font-family: 'DM Serif Display', serif;
+    color: $color;
+
+}
